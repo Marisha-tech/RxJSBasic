@@ -1,27 +1,31 @@
 # RxJSBasic
+Базовый RxJS
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.10.
+## RxJS для Angular
 
-## Development server
+### Languages and Tools
+![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
+![Angular](https://img.shields.io/badge/-Angular-090909?style=for-the-badge&logo=angular)
+![RxJS](https://img.shields.io/badge/-RxJS-090909?style=for-the-badge&logo=RxJS)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Themes
+<ol>
+    <li>
+        Как работает RxJS
+    </li>
+    <li>
+        Оптимизация стримов
+    </li>
+    <li>
+        Как использовать операторы
+    </li>
+    <li>
+        Создание своего стрима
+    </li>
+    <li>
+        Как работает Subject
+    </li>
+</ol>
